@@ -11,10 +11,6 @@ This project is a React Native mobile application that displays savings account 
 - Splash screen
 - Supports both Android and iOS
 
-## API Used
-
-https://srest.com/accounts.json
-
 ## How to Run
 
 1. Clone the repository
